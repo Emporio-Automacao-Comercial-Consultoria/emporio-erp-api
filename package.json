@@ -2,7 +2,7 @@
   "name": "emporio-erp-api",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/cafeepixel/emporio-erp-api.git",
+  "repository": "https://github.com/Emporio-Automacao-Comercial-Consultoria/emporio-erp-api.git",
   "author": "",
   "license": "MIT",
   "scripts": {
